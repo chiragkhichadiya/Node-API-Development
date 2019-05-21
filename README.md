@@ -1,4 +1,4 @@
-# Node-API-Development
+# Node API Development
 Sample Node JS API to get country list
 
 This sample project uses https://restcountries.eu API to get country list.
