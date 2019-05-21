@@ -33,7 +33,7 @@ function getCountries(searchBy, queryStr, output) {
             url = "https://restcountries.eu/rest/v2/region/" + queryStr;
             break;
         case "regionalbloc":
-            url = "https://restcountries.eu/rest/v2/regionalbloc/eu" + queryStr;
+            url = "https://restcountries.eu/rest/v2/regionalbloc/" + queryStr;
             break;
         default :
             break;
